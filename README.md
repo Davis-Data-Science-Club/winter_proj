@@ -8,9 +8,8 @@
 
 ### Current Goals:
 
-  * Develop a web scraper that will scrape the dining hall menus
-  * Store current week in a database.
-  * Create data pipelines from database
-  * Dashboard
-  * Recommendations
-  * Nutrition calculators
+  * Develop a web scraper that will scrape the dining hall menus [In-Progress]
+  * Build a Data pipelines that will automatically update a database with dining commons information.
+  * Build a Dashboard to view analytics on the various metrics of dining commons food items
+  * Build a Recommendation System using the data, productionize the model, and integrate it into a mobile application 
+  * Creat automated testing systeming to ensure data pipeline and model integrity. 
